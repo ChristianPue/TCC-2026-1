@@ -1,0 +1,2 @@
+AllSolutions Class: https://developers.google.com/optimization/cp/cp_solver
+N-queens: https://developers.google.com/optimization/cp/queens
