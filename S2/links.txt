@@ -1,0 +1,6 @@
+Install GNUPlot: https://sourceforge.net/projects/gnuplot/
+Angulos (grados y radianes) en GNUPlot: http://gnuplot.sourceforge.net/docs_4.2/node155.html
+Data Minedu: http://sigmed.minedu.gob.pe/descargas/
+GNUPlot in 3D: http://www.gnuplot.info/demo/surface1.html
+Scripts AWK: https://www.tutorialspoint.com/execute_awk_online.php
+Bibliometrics: https://www.csauthors.net/willy-ugarte/

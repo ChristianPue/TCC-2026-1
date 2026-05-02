@@ -1,0 +1,6 @@
+Core ranks:
+http://portal.core.edu.au/conf-ranks/
+Ejemplos de conferencias de comunidades:
+Machine Learning: https://icml.cc/
+Data Mining: http://icdm2020.bigke.org/
+Constraint Programming: https://www.a4cp.org/events/cp-conference-series
